@@ -1,0 +1,5 @@
+
+# Example constraint rules
+- Do not use imported asphalt.
+- All electrical components must comply with Ministry Standard 125.
+- Parking spaces must be at least 2.5 meters wide.
